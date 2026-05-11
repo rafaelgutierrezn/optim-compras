@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Tests y diagnóstico (uso local)
+verify.py
+.pytest_cache/
+
+# Resultados generados
+data/results/
