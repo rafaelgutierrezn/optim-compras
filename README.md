@@ -1,7 +1,7 @@
 # Optimización de Compras — MILP + HAPPO
 desarrollado por RAfael Gutiérrez
 ## Descripción
-Challenge para el cargo AI/ML Engineer
+Mock solution 
 ## Estructura
 
 ```
